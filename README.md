@@ -5,7 +5,7 @@ Repositório criado para armazenar a documentação do sistema de gestão de rep
 
 <h3> Documento para Especificação de Requisitos.</h3>
 https://docs.google.com/document/d/16EXZsjL3ZvJyTnTusjIp4-0FuhkptP4n/edit
-
+<br>
 <img src="https://user-images.githubusercontent.com/54334704/199857354-a01ee23d-db80-4ef1-a363-60848561f7e1.png">
 
 <h3> A Ferramenta </h3>
@@ -21,6 +21,7 @@ Para utilizar a ferramenta um usuário cadastrado pode inserir, alterar ou exlui
 <li>MariaDB 10.4.6</li>
 
 <h3>Telas</h3>
+<img src="https://user-images.githubusercontent.com/54334704/199858260-65df7f05-a12d-409d-a6e3-017e2922c30d.png">
 <img scr="https://user-images.githubusercontent.com/54334704/199857922-f11e5175-e78e-47c0-ab2c-f24d092c5cf1.png">
 <img src="https://user-images.githubusercontent.com/54334704/199857948-2b7ed62f-fceb-4166-8492-803dba168841.png">
 <img src="https://user-images.githubusercontent.com/54334704/199857981-040ae099-8fa6-433e-8bcc-d54ee833e5b3.png">
